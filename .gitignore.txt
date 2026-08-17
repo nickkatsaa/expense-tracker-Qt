@@ -1,0 +1,13 @@
+# Αγνόησε τους φακέλους build που φτιάχνει το Qt
+build-*/
+build/
+
+# Αγνόησε τα τοπικά αρχεία ρυθμίσεων του Qt Creator
+*.user
+*.user.*
+.qmake.stash
+CMakeLists.txt.user
+
+# Αγνόησε αρχεία του λειτουργικού συστήματος
+.DS_Store
+Thumbs.db

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-deb7eb5b140a0ad83288.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ExpenseTracker",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ExpenseTracker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExpenseTracker-Debug-88474aacfb4779a85645.json",
+					"name" : "ExpenseTracker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExpenseTracker_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExpenseTracker_autogen-Debug-3bf92f4f12d53cccff45.json",
+					"name" : "ExpenseTracker_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExpenseTracker_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExpenseTracker_autogen_timestamp_deps-Debug-749b1f91e3c9e3e4daa5.json",
+					"name" : "ExpenseTracker_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Desktop/CREATIONS/QT PRJCTS/ExpenseTracker/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug",
+		"source" : "C:/Users/user/Desktop/CREATIONS/QT PRJCTS/ExpenseTracker"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
